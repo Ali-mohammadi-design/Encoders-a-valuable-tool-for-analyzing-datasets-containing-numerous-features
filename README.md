@@ -16,3 +16,4 @@ Notes:
 In order to effectively reduce data dimension, the use of encoders is essential. However, to ensure the accuracy of the encoder, it is imperative to employ a matching decoder for proper model training. As a result, we implement the training of an autoencoder, while utilizing solely the encoder component for dimension reduction.
 
 ## Results
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/b821d2d0-7cba-440d-9b7e-7ecf5aea53f4">
